@@ -39,5 +39,7 @@ In this arduino based line follower robot we have used IR Transmitters and IR re
 Here in this arduino line follower robot when sensor senses white surface then arduino gets 1 as input and when senses black line arduino gets 0 as input.
 ![image](https://user-images.githubusercontent.com/92295704/136910676-ba8f143d-53e4-424f-bd74-d5cfc91f87b1.png)
 ![my project](https://user-images.githubusercontent.com/92295704/136911115-68372d83-a284-4d22-80b5-3b7838b4887e.png)
+![line follower](https://user-images.githubusercontent.com/92295704/136912763-b5e5da41-5136-4eaa-836d-1a2ec7d5709b.gif)
+
 
 
