@@ -17,7 +17,7 @@ pinMode(pin,INPUT);
 pinMode(pin1,OUTPUT);
 pinMode(pin2,OUTPUT);
 pinMode(pin3,OUTPUT);
-pinMode(pin4,OUTPUT);// put your setup code here, to run once:
+pinMode(pin4,OUTPUT);
 
 }
 
