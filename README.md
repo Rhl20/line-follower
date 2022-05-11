@@ -3,7 +3,7 @@ Concepts of Line Follower Concept of working of line follower is related to ligh
 
 
 
-# code:
+# Code:
 int pin=8;
 int pin1=2;
 int pin2=3;
@@ -33,7 +33,7 @@ else
 digitalWrite(pin1,LOW);
 digitalWrite(pin2,LOW);
 }
-# explaination
+# Explaination
 In this arduino based line follower robot we have used IR Transmitters and IR receivers also called photo diodes. They are used for sending and receiving light. IR transmits infrared lights. When infrared rays falls on white surface, it’s reflected back and catched by photodiodes which generates some voltage changes. When IR light falls on a black surface, light is absorb by the black surface and no rays are reflected back, thus photo diode does not receive any light or rays.
 
 Here in this arduino line follower robot when sensor senses white surface then arduino gets 1 as input and when senses black line arduino gets 0 as input.
